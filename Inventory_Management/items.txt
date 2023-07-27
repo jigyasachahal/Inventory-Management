@@ -1,0 +1,37 @@
+Tea	30	20.0	Dairy	Amul
+Butter	0	30.0	Dairy	Amul
+Lays(Cream & Onion)	80	20	Snacks	ChipsLtd.
+Cocacola	50	20	Beverages	ChipsLtd.
+Cheese	23	55	Dairy	Amul
+Tomato Ketchup	28	25	Sauces	Kissan
+Cookies	27	60	Cookies	Ellora
+Coffee	21	35	Beverages	Nescafe
+Bread	24	20	Snacks	Britania
+Sugar	15	50	Baking	Dhampure
+Kitkat	35	15	Snacks	Nestle
+Vegetable Oil	53	30	Oil	Fortune
+Maggi Masala	65	10	Masalas	Nestle
+Curd	20	15	Dairy	Amul
+Maggi(8 Pack)	32	90	Snacks	Nestle
+Maggi(4 Pack)	30	45	Snacks	Nestle
+Maggi(Family Pack)	15	150	Snacks	Nestle
+WheatFlour	21	60	Flours	ITC
+Juice+	44	20.0	Beverages	Real
+Ice Cream	22	35	Frozen Food	Amul
+Custard Powder	65	25	Dessert	Kwality
+Salt	70	45	Salt	Tata
+Lays(Classic)	90	20	Snacks	ChipsLtd.
+Oreo	85	25	Sandwich Cookie	MondelezLtd.
+Honey	55	30	Sugar	Dabur
+Pasta	60	50	Snacks	ITC
+Toffees	100	60	Sweet	Parle
+Cashews	80	70	Dry Fruits	Tata
+Almonds	85	75	Dry Fruits	Tata
+Peanuts	90	65	Dry Fruits	Haldiram
+Soap	100	25	Soap	Lifebuoy
+Handwash	90	50	Handwash	Dettol
+Handwash Liquid	65	30	Cleaning	Dettol
+Air Freshner	60	85	Cleaning	Godrej
+Glass Cleaner	50	55	Cleaning	Colin
+Baking Soda	60	30	Baking	Tata
+Rice	100	75	Rice	Daawat
